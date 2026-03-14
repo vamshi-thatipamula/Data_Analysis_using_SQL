@@ -72,8 +72,8 @@ The `movie_actor` table resolves the many-to-many relationship between movies an
 ### 6.1 Folder Structure
 
 - data_analysis_using_sql/
-    - data_analysis.sql
-    - ER_diagram.png
+    - SQL_Queries/data_analysis.sql
+    - ER_diagram/ER_diagram.png
     - README.md
 
 ### 6.2 Project Workflow
