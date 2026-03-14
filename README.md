@@ -232,7 +232,7 @@ Key insights discovered through the analysis:
 
 ---
 
-# 11. Key Takeaways
+## 11. Key Takeaways
 
 - Proper **data normalization is critical for accurate financial analysis**.
 - SQL can effectively analyze relational datasets without requiring additional tools.
@@ -241,7 +241,7 @@ Key insights discovered through the analysis:
 
 ---
 
-# 12. Skills Demonstrated
+## 12. Skills Demonstrated
 
 This project demonstrates the following SQL and data analysis skills:
 
@@ -257,7 +257,7 @@ This project demonstrates the following SQL and data analysis skills:
 
 ---
 
-# 13. Final Conclusion
+## 13. Final Conclusion
 
 This project showcases how SQL can be used to perform **end-to-end data analysis on a relational dataset**. By combining exploratory queries, data transformation techniques, and advanced analytical functions, meaningful insights about the movie industry can be extracted.
 
