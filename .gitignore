@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# IDE files
+.idea/
+
+# Python environments (optional)
+.env
