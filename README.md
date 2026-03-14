@@ -1,4 +1,4 @@
-# Data Analysis Using SQL (MySQL)
+# Data Analysis using SQL (MySQL)
 
 ## 1. Project Overview
 
