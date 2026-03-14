@@ -92,7 +92,7 @@ The `movie_actor` table resolves the many-to-many relationship between movies an
 
 The dataset follows a relational schema connecting movies, actors, languages and financial information.
 
-![ER Diagram](ER_diagram/er_diagram.png)
+![ER Diagram](ER_diagram/ER_diagram.png)
 
 ---
 
